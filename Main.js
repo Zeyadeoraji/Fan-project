@@ -15,7 +15,8 @@
       fanimg.style.animationDuration = 0.1 + "s";
     }
     fanOn();
-    fanOff();
+  
     fanSpeed1();
     fanSpeed2();
     fanSpeed3();
+  fanOff();
